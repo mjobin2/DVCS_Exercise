@@ -13,5 +13,6 @@
         <p>Future content here</p>
     </div>
     </form>
+    <footer> Copyright Marc Jobin 2016</footer>
 </body>
 </html>
